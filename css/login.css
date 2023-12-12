@@ -6,7 +6,7 @@
 }
  body{
     height:100vh;
-    background-color: rgb(19, 20, 19);
+    background-color:rgb(19, 20 ,19);
     display:flex;
     justify-content: center ;
     align-items : center;
